@@ -64,8 +64,6 @@ namespace Controller.CategoriaController
       return Ok(totalGeral);
     }
 
-
-
     //Para documentaçãp anotar as rotas HTTP:
     //GET /api/categoria - Lista todas as categorias
     //POST /api/categoria - Criar nova categoria
