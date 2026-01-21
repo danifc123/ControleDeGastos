@@ -1,0 +1,73 @@
+.home {
+  display: grid;
+  gap: 24px;
+}
+
+.hero {
+  background: linear-gradient(120deg, #111827, #1f2937);
+  color: #fff;
+  border-radius: 14px;
+  padding: 24px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.18);
+}
+
+.hero h1 {
+  margin: 8px 0;
+  font-size: 26px;
+}
+
+.hero .subtitle {
+  margin: 0;
+  color: #e5e7eb;
+  max-width: 720px;
+}
+
+.eyebrow {
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 12px;
+  margin: 0;
+  opacity: 0.8;
+}
+
+.tiles {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 16px;
+}
+
+.tile {
+  display: grid;
+  gap: 6px;
+  padding: 16px;
+  background: #fff;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  text-decoration: none;
+  color: inherit;
+  transition: transform 120ms ease, box-shadow 120ms ease;
+  min-height: 120px;
+}
+
+.tile:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.08);
+}
+
+.tile.disabled {
+  cursor: not-allowed;
+  opacity: 0.45;
+  box-shadow: none;
+  transform: none;
+}
+
+.tileTitle {
+  font-weight: 700;
+}
+
+.tileDesc {
+  color: #4b5563;
+  font-size: 14px;
+}
+
+

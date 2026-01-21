@@ -1,0 +1,43 @@
+.totaisPage {
+  display: grid;
+  gap: 16px;
+}
+
+.sectionHeader h1 {
+  margin: 4px 0 4px 0;
+  font-size: 22px;
+}
+
+.sectionHeader .subtitle {
+  margin: 0;
+  color: #4b5563;
+}
+
+.sectionHeader .eyebrow {
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 12px;
+  margin: 0;
+  color: #6b7280;
+}
+
+.totalGeral {
+  margin-top: 24px;
+  padding-top: 16px;
+  border-top: 2px solid #e5e7eb;
+}
+
+.totalGeral h3 {
+  margin: 0 0 12px 0;
+  font-size: 16px;
+  color: #111827;
+}
+
+.positive {
+  color: #059669;
+}
+
+.negative {
+  color: #dc2626;
+}
+

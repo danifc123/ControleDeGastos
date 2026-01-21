@@ -1,0 +1,23 @@
+.pessoasPage {
+  display: grid;
+  gap: 16px;
+}
+
+.sectionHeader h1 {
+  margin: 4px 0 4px 0;
+  font-size: 22px;
+}
+
+.sectionHeader .subtitle {
+  margin: 0;
+  color: #4b5563;
+}
+
+.sectionHeader .eyebrow {
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 12px;
+  margin: 0;
+  color: #6b7280;
+}
+
