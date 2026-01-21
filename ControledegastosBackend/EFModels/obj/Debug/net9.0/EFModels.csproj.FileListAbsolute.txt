@@ -28,3 +28,4 @@ D:\ESTUDOS\Controledegastos\ControledegastosBackend\EFModels\obj\Debug\net9.0\EF
 D:\ESTUDOS\Controledegastos\ControledegastosBackend\EFModels\obj\Debug\net9.0\refint\EFModels.dll
 D:\ESTUDOS\Controledegastos\ControledegastosBackend\EFModels\obj\Debug\net9.0\EFModels.pdb
 D:\ESTUDOS\Controledegastos\ControledegastosBackend\EFModels\obj\Debug\net9.0\ref\EFModels.dll
+D:\ESTUDOS\ControleDeGastos\ControledegastosBackend\EFModels\obj\Debug\net9.0\EFModels.sourcelink.json

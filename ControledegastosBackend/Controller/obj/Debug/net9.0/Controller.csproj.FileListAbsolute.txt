@@ -40,3 +40,4 @@ D:\ESTUDOS\Controledegastos\ControledegastosBackend\Controller\obj\Debug\net9.0\
 D:\ESTUDOS\Controledegastos\ControledegastosBackend\Controller\obj\Debug\net9.0\refint\Controller.dll
 D:\ESTUDOS\Controledegastos\ControledegastosBackend\Controller\obj\Debug\net9.0\Controller.pdb
 D:\ESTUDOS\Controledegastos\ControledegastosBackend\Controller\obj\Debug\net9.0\ref\Controller.dll
+D:\ESTUDOS\ControleDeGastos\ControledegastosBackend\Controller\obj\Debug\net9.0\Controller.sourcelink.json

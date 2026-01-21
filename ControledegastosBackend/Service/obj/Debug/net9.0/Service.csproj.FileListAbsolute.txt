@@ -36,3 +36,4 @@ D:\ESTUDOS\Controledegastos\ControledegastosBackend\Service\obj\Debug\net9.0\Ser
 D:\ESTUDOS\Controledegastos\ControledegastosBackend\Service\obj\Debug\net9.0\refint\Service.dll
 D:\ESTUDOS\Controledegastos\ControledegastosBackend\Service\obj\Debug\net9.0\Service.pdb
 D:\ESTUDOS\Controledegastos\ControledegastosBackend\Service\obj\Debug\net9.0\ref\Service.dll
+D:\ESTUDOS\ControleDeGastos\ControledegastosBackend\Service\obj\Debug\net9.0\Service.sourcelink.json

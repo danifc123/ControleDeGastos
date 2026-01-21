@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useState } from "react";
 import type { Categoria } from "../../types";
 import { apiGet } from "../../services/api";
 import CategoriaForm from "../../components/Categoria/CategoriaForm";
@@ -11,7 +11,6 @@ function CategoriasPage() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [showErrorModal, setShowErrorModal] = useState(false);
-  const apiBaseUrl = useMemo(() => import.meta.env.VITE_API_BASE_URL as string, []);
 
   async function fetchCategorias() {
     try {
@@ -46,9 +45,6 @@ function CategoriasPage() {
         <div>
           <p className="eyebrow">Categorias</p>
           <h1>Gerencie categorias cadastradas</h1>
-          <p className="subtitle">
-            API base: <strong>{apiBaseUrl}</strong>
-          </p>
         </div>
       </header>
 

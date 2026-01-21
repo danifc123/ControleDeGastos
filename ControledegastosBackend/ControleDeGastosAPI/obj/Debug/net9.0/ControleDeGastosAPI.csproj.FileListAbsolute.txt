@@ -258,3 +258,4 @@ D:\ESTUDOS\Controledegastos\ControledegastosBackend\ControleDeGastosAPI\obj\Debu
 D:\ESTUDOS\Controledegastos\ControledegastosBackend\ControleDeGastosAPI\obj\Debug\net9.0\ControleDeGastosAPI.pdb
 D:\ESTUDOS\Controledegastos\ControledegastosBackend\ControleDeGastosAPI\obj\Debug\net9.0\ControleDeGastosAPI.genruntimeconfig.cache
 D:\ESTUDOS\Controledegastos\ControledegastosBackend\ControleDeGastosAPI\obj\Debug\net9.0\ref\ControleDeGastosAPI.dll
+D:\ESTUDOS\ControleDeGastos\ControledegastosBackend\ControleDeGastosAPI\obj\Debug\net9.0\ControleDeGastosAPI.sourcelink.json

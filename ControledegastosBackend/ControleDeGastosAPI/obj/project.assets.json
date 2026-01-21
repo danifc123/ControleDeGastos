@@ -2952,11 +2952,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\ControleDeGastosAPI\\ControleDeGastosAPI.csproj",
+      "projectUniqueName": "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\ControleDeGastosAPI\\ControleDeGastosAPI.csproj",
       "projectName": "ControleDeGastosAPI",
-      "projectPath": "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\ControleDeGastosAPI\\ControleDeGastosAPI.csproj",
+      "projectPath": "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\ControleDeGastosAPI\\ControleDeGastosAPI.csproj",
       "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-      "outputPath": "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\ControleDeGastosAPI\\obj\\",
+      "outputPath": "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\ControleDeGastosAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2977,20 +2977,20 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\Controller\\Controller.csproj": {
-              "projectPath": "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\Controller\\Controller.csproj"
+            "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\Controller\\Controller.csproj": {
+              "projectPath": "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\Controller\\Controller.csproj"
             },
-            "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\EFModels\\EFModels.csproj": {
-              "projectPath": "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\EFModels\\EFModels.csproj"
+            "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\EFModels\\EFModels.csproj": {
+              "projectPath": "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\EFModels\\EFModels.csproj"
             },
-            "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\Models\\Models.csproj": {
-              "projectPath": "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\Models\\Models.csproj"
+            "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\Models\\Models.csproj": {
+              "projectPath": "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\Models\\Models.csproj"
             },
-            "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\Repository\\Repository.csproj": {
-              "projectPath": "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\Repository\\Repository.csproj"
+            "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\Repository\\Repository.csproj": {
+              "projectPath": "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\Repository\\Repository.csproj"
             },
-            "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\Service\\Service.csproj": {
-              "projectPath": "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\Service\\Service.csproj"
+            "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\Service\\Service.csproj": {
+              "projectPath": "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\Service\\Service.csproj"
             }
           }
         }

@@ -20,3 +20,4 @@ D:\ESTUDOS\Controledegastos\ControledegastosBackend\Models\obj\Debug\net9.0\Mode
 D:\ESTUDOS\Controledegastos\ControledegastosBackend\Models\obj\Debug\net9.0\refint\Models.dll
 D:\ESTUDOS\Controledegastos\ControledegastosBackend\Models\obj\Debug\net9.0\Models.pdb
 D:\ESTUDOS\Controledegastos\ControledegastosBackend\Models\obj\Debug\net9.0\ref\Models.dll
+D:\ESTUDOS\ControleDeGastos\ControledegastosBackend\Models\obj\Debug\net9.0\Models.sourcelink.json

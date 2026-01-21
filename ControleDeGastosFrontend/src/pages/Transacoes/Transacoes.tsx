@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useState } from "react";
 import type { Transacao } from "../../types";
 import { apiGet } from "../../services/api";
 import TransacaoForm from "../../components/Transacao/TransacaoForm";
@@ -11,7 +11,6 @@ function TransacoesPage() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [showErrorModal, setShowErrorModal] = useState(false);
-  const apiBaseUrl = useMemo(() => import.meta.env.VITE_API_BASE_URL as string, []);
 
   async function fetchTransacoes() {
     try {
@@ -46,9 +45,6 @@ function TransacoesPage() {
         <div>
           <p className="eyebrow">Transações</p>
           <h1>Crie e consulte transações</h1>
-          <p className="subtitle">
-            API base: <strong>{apiBaseUrl}</strong>
-          </p>
         </div>
       </header>
 

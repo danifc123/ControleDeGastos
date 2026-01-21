@@ -32,3 +32,4 @@ D:\ESTUDOS\Controledegastos\ControledegastosBackend\Repository\obj\Debug\net9.0\
 D:\ESTUDOS\Controledegastos\ControledegastosBackend\Repository\obj\Debug\net9.0\refint\Repository.dll
 D:\ESTUDOS\Controledegastos\ControledegastosBackend\Repository\obj\Debug\net9.0\Repository.pdb
 D:\ESTUDOS\Controledegastos\ControledegastosBackend\Repository\obj\Debug\net9.0\ref\Repository.dll
+D:\ESTUDOS\ControleDeGastos\ControledegastosBackend\Repository\obj\Debug\net9.0\Repository.sourcelink.json

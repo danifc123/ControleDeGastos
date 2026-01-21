@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\Controller\\Controller.csproj": {}
+    "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\Controller\\Controller.csproj": {}
   },
   "projects": {
-    "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\Controller\\Controller.csproj": {
+    "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\Controller\\Controller.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\Controller\\Controller.csproj",
+        "projectUniqueName": "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\Controller\\Controller.csproj",
         "projectName": "Controller",
-        "projectPath": "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\Controller\\Controller.csproj",
+        "projectPath": "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\Controller\\Controller.csproj",
         "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\Controller\\obj\\",
+        "outputPath": "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\Controller\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\Models\\Models.csproj": {
-                "projectPath": "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\Models\\Models.csproj"
+              "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\Models\\Models.csproj": {
+                "projectPath": "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\Models\\Models.csproj"
               },
-              "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\Service\\Service.csproj": {
-                "projectPath": "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\Service\\Service.csproj"
+              "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\Service\\Service.csproj": {
+                "projectPath": "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\Service\\Service.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\EFModels\\EFModels.csproj": {
+    "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\EFModels\\EFModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\EFModels\\EFModels.csproj",
+        "projectUniqueName": "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\EFModels\\EFModels.csproj",
         "projectName": "EFModels",
-        "projectPath": "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\EFModels\\EFModels.csproj",
+        "projectPath": "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\EFModels\\EFModels.csproj",
         "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\EFModels\\obj\\",
+        "outputPath": "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\EFModels\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -107,8 +107,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\Models\\Models.csproj": {
-                "projectPath": "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\Models\\Models.csproj"
+              "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\Models\\Models.csproj": {
+                "projectPath": "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\Models\\Models.csproj"
               }
             }
           }
@@ -154,14 +154,14 @@
         }
       }
     },
-    "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\Models\\Models.csproj": {
+    "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\Models\\Models.csproj",
+        "projectUniqueName": "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\Models\\Models.csproj",
+        "projectPath": "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\Models\\Models.csproj",
         "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\Models\\obj\\",
+        "outputPath": "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -219,14 +219,14 @@
         }
       }
     },
-    "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\Repository\\Repository.csproj": {
+    "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\Repository\\Repository.csproj",
+        "projectUniqueName": "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\Repository\\Repository.csproj",
+        "projectPath": "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\Repository\\obj\\",
+        "outputPath": "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -247,11 +247,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\EFModels\\EFModels.csproj": {
-                "projectPath": "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\EFModels\\EFModels.csproj"
+              "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\EFModels\\EFModels.csproj": {
+                "projectPath": "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\EFModels\\EFModels.csproj"
               },
-              "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\Models\\Models.csproj": {
-                "projectPath": "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\Models\\Models.csproj"
+              "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\Models\\Models.csproj": {
+                "projectPath": "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\Models\\Models.csproj"
               }
             }
           }
@@ -291,14 +291,14 @@
         }
       }
     },
-    "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\Service\\Service.csproj": {
+    "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\Service\\Service.csproj",
+        "projectUniqueName": "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\Service\\Service.csproj",
+        "projectPath": "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\Service\\Service.csproj",
         "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\Service\\obj\\",
+        "outputPath": "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -319,11 +319,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\Models\\Models.csproj": {
-                "projectPath": "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\Models\\Models.csproj"
+              "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\Models\\Models.csproj": {
+                "projectPath": "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\Models\\Models.csproj"
               },
-              "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\Repository\\Repository.csproj": {
-                "projectPath": "D:\\ESTUDOS\\Controledegastos\\ControledegastosBackend\\Repository\\Repository.csproj"
+              "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\Repository\\Repository.csproj": {
+                "projectPath": "D:\\ESTUDOS\\ControleDeGastos\\ControledegastosBackend\\Repository\\Repository.csproj"
               }
             }
           }

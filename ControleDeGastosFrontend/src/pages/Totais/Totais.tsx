@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useState } from "react";
 import type { PessoaComTotais, CategoriaComTotais, TotalGeral } from "../../types";
 import { apiGet } from "../../services/api";
 import "./Totais.css";
@@ -20,7 +20,6 @@ function TotaisPage() {
   const [loadingPessoas, setLoadingPessoas] = useState(true);
   const [loadingCategorias, setLoadingCategorias] = useState(true);
   const [error, setError] = useState<string | null>(null);
-  const apiBaseUrl = useMemo(() => import.meta.env.VITE_API_BASE_URL as string, []);
 
   async function fetchTotaisPessoas() {
     try {
@@ -69,9 +68,6 @@ function TotaisPage() {
         <div>
           <p className="eyebrow">Totais</p>
           <h1>Consulta de totais por pessoa e categoria</h1>
-          <p className="subtitle">
-            API base: <strong>{apiBaseUrl}</strong>
-          </p>
         </div>
       </header>
 
