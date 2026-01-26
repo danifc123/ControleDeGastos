@@ -6,7 +6,7 @@ function HomePage() {
     <div className="home">
       <section className="hero">
         <p className="eyebrow">Bem-vindo</p>
-        <h1>Teste prático do Daniel</h1>
+        <h1>Anote seus gastos</h1>
         <p className="subtitle">
           Escolha uma das seções abaixo para gerenciar Pessoas, Categorias, Transações
           e consultar Totais. Interface simples e focada nas regras do desafio.
